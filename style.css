@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* outline: 1px solid red; */
+}
+
+
+button{
+    border: none;
+    border-radius: 10px;
+}
+
+.nav-tous{
+    background-color: black;
+    color: white;
+}
+
+.violet{
+    color: blueviolet;
+}
+
+.navbar-nav-lien img{
+    height: 30px;
+    width: 30PX;
+}
+
